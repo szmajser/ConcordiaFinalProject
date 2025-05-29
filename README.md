@@ -4,7 +4,7 @@ This project is an interactive **Streamlit** application built in **Python** to 
 
 ## Objective
 
-To develop a system that automatically estimates the likelihood of hail in Quebec location by combining real-time weather data and machine learning techniques.
+To develop a system that automatically estimates the likelihood of snow / rain / hail in Quebec location by combining real-time weather data and machine learning techniques.
 
 ## Dataset
 
@@ -12,7 +12,6 @@ Weather data was retrieved using the Open-Meteo API (`hourly` endpoint), includi
 - Temperature
 - Precipitation
 - Relative Humidity
-- Dew Point
 - Weather Code 
 
 ## Modeling
