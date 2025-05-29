@@ -1,6 +1,6 @@
 # Snow / Rain / Hail Probability Prediction App
 
-This project is an interactive **Streamlit** application built in **Python** to predict the **probability of Snow / Rain / Hail** using historical weather data and current forecasts. It leverages a machine learning model trained on data retrieved from the [Open-Meteo]([https://open-meteo.com/](https://open-meteo.com/en/docs)) API.
+This project is an interactive **Streamlit** application built in **Python** to predict the **probability of Snow / Rain / Hail** using historical weather data and current forecasts. It leverages a machine learning model trained on data retrieved from the [Open-Meteo](https://open-meteo.com/en/docs) API.
 
 ## Objective
 
