@@ -34,6 +34,15 @@ Classification models tested:
 - F1-Score
 - Confusion Matrix
 
+## Modeling
+
+Project Folders:
+- App - App Files
+- Data - CSV Generated 
+- Model - Model generated to be used in the App
+- Ppt - Powerpoint Presentation
+- Scripts - Scripts used to retrieve historical and actual weather forecast
+
 ## Streamlit App
 
 The web app allows users to:
